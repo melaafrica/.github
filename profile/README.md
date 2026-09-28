@@ -4,10 +4,6 @@
 
 <br>
 
-<a href="https://www.mela.africa/amani-film.mp4">
-  <img src="https://raw.githubusercontent.com/melaafrica/.github/main/profile/assets/film.png" alt="Watch the film: Meet Amani. Amani is a farmer." width="100%">
-</a>
-
 <p align="center">
   <a href="https://www.mela.africa/amani-film.mp4"><b>Watch the film</b></a> · 4 min
   &nbsp;&nbsp;|&nbsp;&nbsp;
